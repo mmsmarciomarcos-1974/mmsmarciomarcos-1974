@@ -47,11 +47,6 @@ Além da técnica, possuo uma visão de negócios e jurídica única, facilitand
 
 ---
 
-### 📫 Contato
-
-* [LinkedIn](https://www.linkedin.com/in/marciomarcos1974/)
-* [E-mail](SEU_EMAIL_AQUI)
-
 _"Unindo conhecimento técnico (Legacy + Modern), visão de negócios e inovação sustentável."_
 <!--
 **mmsmarciomarcos-1974/mmsmarciomarcos-1974** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
