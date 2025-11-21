@@ -7,7 +7,20 @@ Sou um profissional com carreira na área da Tecnologia da Informação, atuando
 Meu foco atual é a modernização de sistemas, utilizando Inteligência Artificial para otimizar o desenvolvimento em Mainframe.
 
 ---
+### 💼 Resumo de Experiência Técnica
 
+Minha trajetória de **+20 anos** foca na sustentação de sistemas críticos e na modernização de arquiteturas legadas para ambientes digitais.
+
+**🚀 Atuação Atual & Modernização (NTT DATA)**
+* **Cloud Integration (AWS):** Desenvolvimento de pipelines ETL para extração de dados **DB2 para AWS S3** utilizando **AWS Glue**, integrando o legado ao data lake.
+* **Green Software / Performance:** Atuação técnica em projetos de **redução de MIPS** e reengenharia de processos Batch, focando em eficiência energética e otimização de custos.
+* **Arquitetura Híbrida:** Atuação na criação de produtos digitais, definindo estratégias de coexistência e migração entre Mainframe (Cobol/VSAM) e novas plataformas.
+
+**💡 Projetos de Destaque (Histórico)**
+* **Automação & APIs:** Desenvolvimento de solução para digitalização de documentos com integração via **API DocuSign**, eliminando processos manuais.
+* **Banking & Seguros:** Atuação em sistemas de **Alta Criticidade** (Gestão de Garantias, Compensação de Cheques e Benefícios Sociais) com foco em Cobol/CICS/DB2.
+* **Compliance & Fiscal:** Implementação complexa de projetos regulatórios como **SPED Fiscal/Contábil** e adequação de sistemas para inclusão de Nome Social, unindo TI e Regras de Negócio.
+* 
 ### 🛠️ O que estou fazendo agora
 
 - 🔭 **Facilitador StackSpot:** Atuo mentorando times de Mainframe no uso de IA Generativa e Engenharia de Prompt para modernização de código (COBOL/JCL).
