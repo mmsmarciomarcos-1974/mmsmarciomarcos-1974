@@ -46,6 +46,9 @@ Além da técnica, possuo uma visão de negócios e jurídica única, facilitand
 * **Pós-graduações em Direito:** Tributário, Digital, Notarial e Registral.
 
 ---
+<h2>🚀 &nbsp;Meu GitHUB Stats</h2>
+
+![Marcio Marcos GitHub Stats](https://github-readme-stats.vercel.app/api?username=mmsmarciomarcos-1974&show_icons=true&theme=dracula)
 
 _"Unindo conhecimento técnico (Legacy + Modern), visão de negócios e inovação sustentável."_
 <!--
