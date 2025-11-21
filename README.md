@@ -41,6 +41,7 @@ Meu foco atual é a modernização de sistemas, utilizando Inteligência Artific
 
 Além da técnica, possuo uma visão de negócios e jurídica única, facilitando a interface entre **TI e áreas Tributárias/Legais**:
 
+* **Graduado-Técnologo em Gestão da Tecnologia da Informação**
 * **MBA Internacional em Gestão Executiva**
 * **Pós-graduações em Computação:** Cloud Computing, Data Mining e IA na Prática.
 * **Pós-graduações em Direito:** Tributário, Digital, Notarial e Registral.
