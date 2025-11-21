@@ -11,9 +11,8 @@ Meu foco atual é a modernização de sistemas, utilizando Inteligência Artific
 ### 🛠️ O que estou fazendo agora
 
 - 🔭 **Facilitador StackSpot:** Atuo mentorando times de Mainframe no uso de IA Generativa e Engenharia de Prompt para modernização de código (COBOL/JCL).
-- 🌱 **Green Engineering:** Pesquisando e aplicando medição de consumo energético de software (foco em Python e otimização de MIPS).
 - 💻 **Projetos Pessoais:** Estudando FullStack, em breve será publicado alguns ERPs, utilizando as tecnologias REACT, Node entre outras.
-- 🎓 **Acadêmico:** Cursando Disciplina Engenharia Verde (Computação Aplicada) na UTFPR.
+- 🎓 **Acadêmico:** Cursando Disciplina Engenharia Verde (Computação Aplicada) na UTFPR, pesquisando e aplicando medição de consumo energético de software (foco em Python e otimização de MIPS).
 
 ---
 
