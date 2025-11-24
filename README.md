@@ -1,6 +1,8 @@
 # 👋 De boa ? Sou Márcio Marcos, Especialista de Sistemas Mainframe 
 
-Vivemos em uma sociedade extremamente dependente da ciência e da tecnologia, na qual quase ninguém entende nada de ciência e tecnologia. Esta é uma receita infalível para o desastre. _Carl Sagan "Why We Need to Understand Science", 1990._
+**Vivemos em uma sociedade extremamente dependente da ciência e da tecnologia, na qual quase ninguém entende nada de ciência e tecnologia, esta é uma receita infalível para o desastre.**
+
+**_Carl Sagan "Why We Need to Understand Science", 1990._**
 
 ### 🚀 Mainframe Modernization Specialist | AI Facilitator | 
 
