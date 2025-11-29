@@ -24,7 +24,14 @@ Minha trajetória de **+20 anos** foca na sustentação de sistemas críticos e 
 * **Automação & APIs:** Desenvolvimento de solução para digitalização de documentos com integração via **API DocuSign**, eliminando processos manuais.
 * **Banking & Seguros:** Atuação em sistemas de **Alta Criticidade** (Gestão de Garantias, Compensação de Cheques e Benefícios Sociais) com foco em Cobol/CICS/DB2.
 * **Compliance & Fiscal:** Implementação complexa de projetos regulatórios como **SPED Fiscal/Contábil** e adequação de sistemas para inclusão de Nome Social, unindo TI e Regras de Negócio.
-* 
+
+### 🤖 Inovação & Modernização (Mainframe + AI)
+Estou aplicando Inteligência Artificial para acelerar a modernização de sistemas legados.
+
+- 🚀 **[Agentes de Modernização (Ver Projeto)](https://github.com/mmsmarciomarcos-1974/ai-automation)**
+  - **O que é:** Um conjunto de Agentes e Prompts (StackSpot/OpenAI) criados para atuar como "Par Programador Sênior".
+  - **Funcionalidade:** Analisa regras de negócio em COBOL/JCL e sugere implementação moderna em Python e Arquitetura AWS.
+     
 ### 🛠️ O que estou fazendo agora
 
 - 🔭 **Facilitador StackSpot:** Atuo mentorando times de Mainframe no uso de IA Generativa e Engenharia de Prompt para modernização de código (COBOL/JCL).
