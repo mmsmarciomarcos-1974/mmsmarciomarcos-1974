@@ -34,7 +34,7 @@ Estou aplicando Inteligência Artificial para acelerar a modernização de siste
      
 ### 🛠️ O que estou fazendo agora
 
-- 🔭 **Facilitador StackSpot:** Atuo mentorando times de Mainframe no uso de IA Generativa e Engenharia de Prompt para modernização de código (COBOL/JCL).
+- 🔭 **Facilitador StackSpot:** Atuei em mentoria times de Mainframe no uso de IA Generativa e Engenharia de Prompt para modernização de código (COBOL/JCL). (alocado no Itau).
 - 💻 **Projetos Pessoais:** Estudando FullStack, em breve será publicado alguns ERPs, utilizando as tecnologias REACT, Node entre outras.
 - 🎓 **Acadêmico:** Cursando Disciplina Engenharia Verde (Computação Aplicada) na UTFPR, pesquisando e aplicando medição de consumo energético de software (foco em Python e otimização de MIPS).
 
